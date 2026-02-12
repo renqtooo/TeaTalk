@@ -1,0 +1,1 @@
+{"name":"TeaTalk","short_name":"TTalk","description":"🍵","start_url":"/TeaTalk/","display":"standalone","background_color":"#ffffff","theme_color":"#81a684","lang":"en","scope":"/TeaTalk/","icons":[{"src":"pwa-192x192.png","sizes":"192x192","type":"image/png"},{"src":"pwa-512x512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
